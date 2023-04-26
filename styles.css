@@ -1,0 +1,61 @@
+body{
+    background: #ccc;
+}
+#Header a:hover{
+    color: #fff;
+}
+#bg-img {
+    background: url('../Recipe/bg-img.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+#about {
+    margin-top: -200px;
+}
+#about img {
+    padding-top: 80px;
+}
+.card-body {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-left: 40px;
+}
+.skl {
+    margin-left: 20px;
+}
+#about span {
+    padding: 10px 20px 10px 20px;
+}
+#about hr {
+    border-width: 3px;
+    margin-top: 6px;
+}
+#Skills span {
+    padding: 10px 20px 10px 20px;
+}
+#Skills hr {
+    border-width: 3px;
+    margin-top: 6px;
+}
+#Projects span {
+    padding: 10px 20px 10px 20px;
+}
+#Projects hr {
+    border-width: 3px;
+    margin-top: 6px;
+}
+#Projects .card {
+    border-top: 3px solid #d63031;
+}
+#Contact span {
+    padding: 10px 20px 10px 20px;
+}
+#Contact hr {
+    border-width: 3px;
+    margin-top: 6px;
+}
